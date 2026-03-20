@@ -1,2 +1,3 @@
-# mini-social-platform-441p
+# Mini Social Platform 441P
+
 Automated issue comment bot repository.
